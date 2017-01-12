@@ -35,4 +35,3 @@ deploy:
     repo: edenhill/librdkafka
     branch: ci-s3-test
     #tags: true  ## for tag builds only
-#wiggle
